@@ -55,5 +55,3 @@ pillow
 
 
 ---
-
-If you want, I can now give you a **ready-to-use requirements.txt** for this exact code so that your GitHub upload works perfectly without missing dependencies. That way, anyone can run it easily.
